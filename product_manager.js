@@ -1,4 +1,5 @@
 // Desafío Entregable
+// Alumno: Francisco Olivares Diaz
 // Funciones con ECMAScript y ECMAScript avanzado
 //  Crear un programa ProductManager que gestione un conjunto de productos.
 
